@@ -3,7 +3,7 @@
 
 Jan 2024
 
-Google Colab Notebook, CSV file, Slideshow Presentation 
+Google Colab Notebook, Train & Test CSV files, Slideshow Presentation 
 
 # Business Context
 
